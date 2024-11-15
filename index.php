@@ -118,7 +118,7 @@
     <div class="relative max-w-7xl mx-auto px-6 lg:flex pb-10">
       <div class="mx-auto max-w-2xl flex-shrink-0 lg:mx-0 lg:max-w-xl lg:pt-8">
         <h2 class="mt-10 text-4xl font-bold tracking-tight text-white sm:text-6xl">Explore More Links</h2>
-        <p class="mt-6 text-lg leading-8 text-gray-300">Find ways to contact me, or view my socials and maybe some important links as well :3</p>
+        <p class="mt-6 text-lg leading-8 text-gray-300">If you want to get in touch with me you'll find ways to do so on the following page:</p>
         <div class="mt-10 flex items-center gap-x-5">
           <a href="/links" class="flex-1 text-center rounded-md bg-purple-900 px-3.5 py-2.5 text-sm font-semibold text-purple-300 shadow-sm hover:bg-purple-800 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-purple-400"><i class="fa-solid fa-link"></i> View All Links</a>
         </div>
