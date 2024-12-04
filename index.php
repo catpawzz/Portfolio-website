@@ -60,38 +60,29 @@
         <div class="p-6 bg-gray-800 rounded-lg shadow-lg">
           <div class="flex items-center justify-center h-12 w-12 rounded-md bg-purple-600 shadow-purple">
             <span class="material-symbols-outlined text-white">
-              school
-            </span>
-          </div>
-          <h3 class="mt-4 text-lg font-medium text-white">Education</h3>
-            <p class="mt-2 text-base text-gray-300">Explore my educational background, including the institutions I've attended and the knowledge I've gained over the years.</p>
-          <a href="/education" class="mt-4 inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md shadow-sm text-white bg-purple-600 hover:bg-purple-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-purple-500">
-            Open
-          </a>
-        </div>
-        <div class="p-6 bg-gray-800 rounded-lg shadow-lg">
-          <div class="flex items-center justify-center h-12 w-12 rounded-md bg-purple-600 shadow-purple">
-            <span class="material-symbols-outlined text-white">
-              badge
-            </span>
-          </div>
-          <h3 class="mt-4 text-lg font-medium text-white">Portfolio</h3>
-          <p class="mt-2 text-base text-gray-300">Welcome to my portfolio! On here you'll find everything about the experience I'v accummulated over the years, including work, hobbies, school and even more :")</p>
-          <a href="/portfolio" class="mt-4 inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md shadow-sm text-white bg-purple-600 hover:bg-purple-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-purple-500">
-            Open
-          </a>
-        </div>
-        <div class="p-6 bg-gray-800 rounded-lg shadow-lg">
-          <div class="flex items-center justify-center h-12 w-12 rounded-md bg-purple-600 shadow-purple">
-            <span class="material-symbols-outlined text-white">
               code
             </span>
           </div>
-          <h3 class="mt-4 text-lg font-medium text-white">Projects</h3>
-          <p class="mt-2 text-base text-gray-300">All the projects I made and also the ones I've participated to.</p>
-          <a href="/projects" class="mt-4 inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md shadow-sm text-white bg-purple-600 hover:bg-purple-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-purple-500">
-            Open
-          </a>
+          <h3 class="mt-4 text-lg font-medium text-white">Coding - 5 years</h3>
+            <p class="mt-2 text-base text-gray-300">I started coding at a pretty young age, I was interested in some apps, but they were all packed with ads, and I wanted to have something clutter-free and usable.</p>
+        </div>
+        <div class="p-6 bg-gray-800 rounded-lg shadow-lg">
+          <div class="flex items-center justify-center h-12 w-12 rounded-md bg-purple-600 shadow-purple">
+            <span class="material-symbols-outlined text-white">
+              dns
+            </span>
+          </div>
+          <h3 class="mt-4 text-lg font-medium text-white">Servers - 2 years</h3>
+          <p class="mt-2 text-base text-gray-300">I started on ubuntu servers with almost no knowledge but I got to try commands and gained knowledge about these systems and their use cases.</p>
+        </div>
+        <div class="p-6 bg-gray-800 rounded-lg shadow-lg">
+          <div class="flex items-center justify-center h-12 w-12 rounded-md bg-purple-600 shadow-purple">
+            <span class="material-symbols-outlined text-white">
+              download
+            </span>
+          </div>
+          <h3 class="mt-4 text-lg font-medium text-white">Full Stack - Less than a year</h3>
+          <p class="mt-2 text-base text-gray-300">Full stack development is still a pretty new thing to me, but as with the other things, i keep learning and learning.</p>
         </div>
       </div>
     </div>
@@ -117,10 +108,10 @@
     </div>
     <div class="relative max-w-7xl mx-auto px-6 lg:flex pb-10">
       <div class="mx-auto max-w-2xl flex-shrink-0 lg:mx-0 lg:max-w-xl lg:pt-8">
-        <h2 class="mt-10 text-4xl font-bold tracking-tight text-white sm:text-6xl">Explore More Links</h2>
-        <p class="mt-6 text-lg leading-8 text-gray-300">If you want to get in touch with me you'll find ways to do so on the following page:</p>
+        <h2 class="mt-10 text-4xl font-bold tracking-tight text-white sm:text-6xl">Portfolio folder access</h2>
+        <p class="mt-6 text-lg leading-8 text-gray-300">You can request the password for the link to the folder using one of the e-mails provided below.</p>
         <div class="mt-10 flex items-center gap-x-5">
-          <a href="/links" class="flex-1 text-center rounded-md bg-purple-900 px-3.5 py-2.5 text-sm font-semibold text-purple-300 shadow-sm hover:bg-purple-800 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-purple-400"><i class="fa-solid fa-link"></i> View All Links</a>
+          <a href="https://next.cloud.catpawz.net/s/GydHLZMbmkGggLm" class="flex-1 text-center rounded-md bg-purple-900 px-3.5 py-2.5 text-sm font-semibold text-purple-300 shadow-sm hover:bg-purple-800 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-purple-400"><i class="fa-solid fa-link"></i>Open folder (requires password)</a>
         </div>
       </div>
     </div>
@@ -128,8 +119,8 @@
 
   <section class="bg-gray-900 py-16 animate-fade animate-delay-[500ms]">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <h2 class="text-3xl font-bold text-white">Ways to contact me!</h2>
-      <p class="mt-2 text-lg text-gray-300">Discover various ways to get in touch with me, whether it's through social media, email, or other platforms. I'm always excited to connect!</p>
+      <h2 class="text-3xl font-bold text-white">Contact inquiries</h2>
+      <p class="mt-2 text-lg text-gray-300">Please use one of the email adresses below. If you're not sure which one to use, please use the one for general inquiries.</p>
       <div class="mt-12 grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-2">
         <div class="p-6 bg-gray-800 rounded-lg shadow-lg">
           <div class="flex items-center justify-center h-12 w-12 rounded-md bg-purple-600 shadow-purple">
@@ -137,9 +128,9 @@
               chat
             </span>
           </div>
-          <h3 class="mt-4 text-lg font-medium text-white">Telegram</h3>
-          <a href="https://t.me/french_femboi" class="mt-4 inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md shadow-sm text-white bg-purple-600 hover:bg-purple-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-purple-500">
-            Open
+            <h3 class="mt-4 text-lg font-medium text-white">Business Inquiries</h3>
+          <a href="mailto:business@tombugada.eu" class="mt-4 inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md shadow-sm text-white bg-purple-600 hover:bg-purple-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-purple-500">
+            Send e-mail
           </a>
         </div>
         <div class="p-6 bg-gray-800 rounded-lg shadow-lg">
@@ -148,9 +139,9 @@
               chat
             </span>
           </div>
-          <h3 class="mt-4 text-lg font-medium text-white">Discord</h3>
-          <a href="https://discord.com/users/852891077097947156" class="mt-4 inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md shadow-sm text-white bg-purple-600 hover:bg-purple-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-purple-500">
-            Open
+          <h3 class="mt-4 text-lg font-medium text-white">General Inquiries</h3>
+          <a href="mailto:tom@tombugada.eu" class="mt-4 inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md shadow-sm text-white bg-purple-600 hover:bg-purple-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-purple-500">
+            Send e-mail
           </a>
         </div>
       </div>
@@ -159,14 +150,5 @@
 
   <?php include 'inc/footer.php'; ?>
 </body>
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('french_femboi', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support me',
-    'floating-chat.donateButton.background-color': '#794bc4',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>
 
 </html>
