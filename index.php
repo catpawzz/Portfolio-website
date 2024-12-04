@@ -6,7 +6,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>💜 Tom Bugada | Home</title>
+  <title>Tom Bugada | Home</title>
 
   <link href="/src/styles/output.css" rel="stylesheet">
   <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
@@ -17,12 +17,12 @@
   <meta name="description" content="Unleashing Creativity Through Code!">
   <meta name="author" content="Tom Bugada">
   <meta content="#926BFFFF" data-react-helmet="true" name="theme-color">
-  <meta property="og:title" content="💜 Tom Bugada | Home">
+  <meta property="og:title" content="Tom Bugada | Home">
   <meta property="og:description" content="Unleashing Creativity Through Code!">
   <meta property="og:image" content="favicon.png">
   <meta property="og:url" content="https://tombugada.eu">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="💜 Tom Bugada | Home">
+  <meta name="twitter:title" content="Tom Bugada | Home">
   <meta name="twitter:description" content="Unleashing Creativity Through Code!">
   <meta name="twitter:image" content="favicon.png">
 </head>
