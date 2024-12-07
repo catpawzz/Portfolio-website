@@ -50,7 +50,7 @@
                     <li>Check the URL for errors.</li>
                     <li>Return to the <a href="/" class="text-purple-300 underline">homepage</a>.</li>
                     <li>Use the search bar to find what you are looking for.</li>
-                    <li>Contact the system administrators and server operators for assistance.</li>
+                    <li>Contact the system administrators and server operators for assistance with your issue.</li>
                 </ul>
                 <div class="mt-10 flex items-center gap-x-5">
                     <a href="/" class="flex-1 text-center rounded-md bg-purple-900 px-3.5 py-2.5 text-sm font-semibold text-purple-300 shadow-sm hover:bg-purple-800 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-purple-400"><i class="fa-solid fa-house"></i> Back Home</a>
