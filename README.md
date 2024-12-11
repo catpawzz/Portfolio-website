@@ -1,6 +1,6 @@
 # Portfolio website
 
-A portfolio website for more professional uses, and without all the emojis and icons my personal website has. Plus it has a link to the NextCloud portfolio folder.
+A portfolio website for more professional uses, and without all the emojis and icons my personal website has. Plus it has a link to the NextCloud portfolio folder, which does require a password you can request at cat@catpawz.net
 
 ## Built With
 
