@@ -50,7 +50,7 @@
     </div>
     <div class="mx-auto max-w-7xl px-6 pb-24 sm:pb-32 lg:flex lg:px-8 animate-fade">
       <div class="mx-auto max-w-2xl flex-shrink-0 lg:mx-0 lg:max-w-xl lg:pt-8 mt-9">
-        <h1 class="mt-10 text-4xl font-bold tracking-tight text-white sm:text-6xl">I'm Tom Bugada!</h1>
+        <h1 class="mt-10 text-4xl font-bold tracking-tight text-white sm:text-6xl">Hi! I'm Tom Bugada</h1>
         <p class="mt-6 text-lg leading-8 text-gray-300">Hello, I'm Tom Bugada. With more than five years of experience, I specialize in creating efficient HTML, CSS, and JavaScript websites, but also flutter apps and backends. I am passionate about web and app development as well as servers and datacenters.</p>
         <div class="mt-10 flex items-center gap-x-6">
           <span class="text-sm font-semibold leading-6 text-white">Scroll down <span aria-hidden="true">↓</span></span>
