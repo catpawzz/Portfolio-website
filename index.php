@@ -116,7 +116,7 @@
     <div class="relative max-w-7xl mx-auto px-6 lg:flex pb-10">
       <div class="mx-auto max-w-2xl flex-shrink-0 lg:mx-0 lg:max-w-xl lg:pt-8">
         <h2 class="mt-10 text-4xl font-bold tracking-tight text-white sm:text-6xl">Portfolio folder access</h2>
-        <p class="mt-6 text-lg leading-8 text-gray-300">You can request the password for the link to the folder using one of the e-mails provided below.</p>
+        <p class="mt-6 text-lg leading-8 text-gray-300">You can request the password for the link to the folder using one of the e-mails provided below!</p>
         <div class="mt-10 flex items-center gap-x-5">
           <a href="https://next.cloud.catpawz.net/s/GydHLZMbmkGggLm" class="flex-1 text-center rounded-md bg-purple-900 px-3.5 py-2.5 text-sm font-semibold text-purple-300 shadow-sm hover:bg-purple-800 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-purple-400"><i class="fa-solid fa-link"></i>Open folder (requires password)</a>
         </div>
