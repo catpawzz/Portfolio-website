@@ -1,6 +1,6 @@
 # Portfolio website
 
-A portfolio website for more professional uses, and without all the emojis and icons my personal website has. Plus it has a link to the NextCloud portfolio folder, which does require a password you can request at tom@tombugada.eu, even though
+A portfolio website for more professional uses, and without all the emojis and icons my personal website has. Plus it has a link to the NextCloud portfolio folder, which does require a password you can request at tom@tombugada.eu, even though the folder
 
 ## Built With
 
